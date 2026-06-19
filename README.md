@@ -490,6 +490,10 @@ https://www.linkedin.com/company/rusa-analytics
 
 https://www.youtube.com/@rusaanalytics
 
+📖 Case Study: https://www.rusaanalytics.com/case-studies/cpg-distributor-intelligence-platform
+
+💻 GitHub Repository: https://github.com/rusa-analytics/cpg-distributor-intelligence-platform
+
 ---
 
 # Disclaimer
