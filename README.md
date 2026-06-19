@@ -1,2 +1,2 @@
 # cpg-distributor-intelligence-platform
-A Global Consumer Goods Intelligence Platform Designed To Improve Distributor Performance, Market Coverage, Product Visibility, And Executive Decision Making Across 18 Countries.
+Enterprise-grade CPG Distributor Intelligence Platform demonstrating distributor performance, regional intelligence, product analytics, and market coverage across a global consumer goods organization.
