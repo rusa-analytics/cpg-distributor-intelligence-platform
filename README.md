@@ -403,14 +403,13 @@ Leverage analytics and AI to identify trends, risks, and opportunities faster.
 
 ## Regional Intelligence
 
-<img width="3840" height="2160" alt="RUSA_CPG_p4" src="https://github.com/user-attachments/assets/bc9b6a63-fa25-4b6b-8b19-2d35ee9e47bb" />
-
+<img width="3840" height="2160" alt="RUSA_CPG_p5" src="https://github.com/user-attachments/assets/eeed19ce-285e-4048-b9f7-5d6be19f05f2" />
 
 ---
 
 ## Market Coverage Intelligence
 
-<img width="3840" height="2160" alt="RUSA_CPG_p5" src="https://github.com/user-attachments/assets/eeed19ce-285e-4048-b9f7-5d6be19f05f2" />
+<img width="3840" height="2160" alt="RUSA_CPG_p4" src="https://github.com/user-attachments/assets/bc9b6a63-fa25-4b6b-8b19-2d35ee9e47bb" />
 
 ---
 
